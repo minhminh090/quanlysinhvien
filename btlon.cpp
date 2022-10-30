@@ -150,7 +150,6 @@ void menu(){
     cout<<" 7. Tim sinh vien boi ma so sinh vien                                   **\n"; 
     cout<<" 8. Sap xep danh sach sinh vien theo ma diem tb tang dan                **\n"; 
     cout<<" 9. Sap xep danh sach sinh vien theo ten alphabet                       **\n";
-    cout<<" 0. Thoat                                                               **\n";
     cout<<"**************************************************************************\n";
 }
 int main(){
